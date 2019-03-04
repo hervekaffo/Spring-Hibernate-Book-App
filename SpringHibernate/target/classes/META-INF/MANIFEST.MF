@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: Herve
+Class-Path: dependency/spring-orm-4.0.2.RELEASE.jar dependency/spring-
+ beans-4.0.2.RELEASE.jar dependency/spring-core-4.0.2.RELEASE.jar depe
+ ndency/commons-logging-1.1.3.jar dependency/spring-jdbc-4.0.2.RELEASE
+ .jar dependency/spring-tx-4.0.2.RELEASE.jar dependency/spring-context
+ -support-4.0.2.RELEASE.jar dependency/spring-context-4.0.2.RELEASE.ja
+ r dependency/spring-aop-4.0.2.RELEASE.jar dependency/aopalliance-1.0.
+ jar dependency/spring-expression-4.0.2.RELEASE.jar dependency/hiberna
+ te-entitymanager-4.2.3.Final.jar dependency/jboss-logging-3.1.0.GA.ja
+ r dependency/dom4j-1.6.1.jar dependency/jboss-transaction-api_1.1_spe
+ c-1.0.1.Final.jar dependency/hibernate-jpa-2.0-api-1.0.1.Final.jar de
+ pendency/hibernate-commons-annotations-4.0.2.Final.jar dependency/jav
+ assist-3.15.0-GA.jar dependency/hibernate-core-4.2.3.Final.jar depend
+ ency/antlr-2.7.7.jar dependency/log4j-1.2.17.jar dependency/commons-d
+ bcp-1.4.jar dependency/commons-pool-1.5.4.jar dependency/mysql-connec
+ tor-java-5.1.6.jar
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Main-Class: edu.herve.spring.hibernate.App
+
